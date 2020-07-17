@@ -1,7 +1,7 @@
 
 public class Prueba_git {
 	 public static void main(String[] parametro) {
-	        System.out.println("Hola Mundo Java121");
+	        System.out.println("Hola Mundo Java");
 	    }
 		
 }
